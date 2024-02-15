@@ -4,7 +4,7 @@
   const items = [
     { name: "/static/css/apple.png", weight: 6, value: 15 },
     { name: "/static/css/cherry.png", weight: 4, value: 50 },
-    { name: "/static/css/grape.png", weight: 8, value: 8 },
+    { name: "/static/css/grape.png", weight: 8, value: 10 },
     { name: "/static/css/banana.png", weight: 8, value: 10 },
     { name: "/static/css/lemon.png", weight: 6, value: 25 },
     { name: "/static/css/orange.png", weight: 8, value: 10 },
