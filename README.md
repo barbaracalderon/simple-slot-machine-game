@@ -33,6 +33,19 @@ I'm Barbara Calderon, a software developer from Brazil.
 - The text content is in **Portuguese** language
 - Deployed on the **Render platform**
 
+### Game points
+
+If you achieve three reels with the same image, you earn points as follows:
+
+- 3 BAR = 100
+- 3 Cherries = 50
+- 3 Lemons = 25
+- 3 Watermellons = 20
+- 3 Apples = 15
+- 3 Grapes = 10
+- 3 Oranges = 10
+- 3 Bananas = 10
+
 ## Motivation
 The slot machine game was created as a challenge project to explore frontend skills and JavaScript programming. Initially, the intention was to use **Pixi.js** for graphics rendering, but due to time constraints and a steep learning curve (first time dealing with it), a simpler approach with basic HTML, CSS, and JavaScript was chosen. I also had plans to add a slot lever sound effect when pressing play, but was unable to find a free resource available.
 
